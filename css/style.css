@@ -584,8 +584,9 @@ footer p {
 		font-size: 2.5rem;
 	}
 
-	.home .home-portfolio .home-content .socialmedia {
-		margin-bottom: 7.5rem;
+	.home .home-portfolio .home-content .download {
+		margin-top: 3rem;
+		margin-bottom: 5rem;
 	}
 
 	.about .about-portfolio .about-img {
