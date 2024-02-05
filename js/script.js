@@ -36,7 +36,7 @@ ScrollReveal().reveal('', {origin: 'right'});
 // Start Multiple Text //
 
 const typed = new Typed('.multiple-text', {
-	strings: ['Frontend Web Developer','Backend Web Developer', 'Youtuber','Administration'],
+	strings: ['Frontend Web Developer','Backend Web Developer', 'Youtuber', 'Entry Data', 'Administration'],
 	typedSpeed: 100,
 	backSpeed: 100,
 	backDelay: 1000,
