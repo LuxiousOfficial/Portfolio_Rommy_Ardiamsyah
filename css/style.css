@@ -133,6 +133,30 @@ body {
 	border-color: aqua;
 }
 
+.home .home-portfolio .home-content .download {
+	margin-top: 3rem;
+}
+
+.home .home-portfolio .home-content .download a {
+	font-size: 1.5rem;
+	font-weight: bold;
+	padding: 0.5rem 1rem;
+	border-radius: 0.7rem;
+	border: 2px solid aqua;
+	background-color: white;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: aqua;
+	transition: 0.5s;
+}
+
+.home .home-portfolio .home-content .download a:hover {
+	transform: scale(1.05);
+	border-color: white;
+	color: white;
+	background-color: aqua;
+}
+
 .home .home-portfolio .home-img {
 	display: flex;
 	justify-content: center;
