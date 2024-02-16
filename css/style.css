@@ -525,12 +525,12 @@ footer p {
 		display: block;
 		margin: 1.3rem;
 		font-size: 1.8rem;
-		color: aqua;
+		color: black;
 		text-transform: capitalize;
 	}
 
 	.navigasi .navigasi-nav a:hover {
-		
+		color: aqua;
 	}
 
 	.navigasi .navigasi-nav a::after {
