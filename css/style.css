@@ -535,6 +535,7 @@ footer p {
 
 	.navigasi .navigasi-nav a::after {
 		transform-origin: 0 0;
+		border-bottom: 0.2rem solid aqua;
 	}
 
 	.navigasi .navigasi-nav a:hover::after {
